@@ -1,7 +1,5 @@
 # International-Debt-Statistics-Analysis
 
-## International Debt Statistics Analysis
-
 Just like citizens go to a bank if they need money to grow economically, countries also approach the World Bank for loans to support development in their countries. In this project, We will explore countries' debts(in USD) to the World Bank using SQL.
 
 Dataset: The dataset belongs to the World Bank and contains information about how much money countries worldwide owe to the Bank.
