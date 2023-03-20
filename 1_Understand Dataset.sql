@@ -1,4 +1,8 @@
 
+# A first-level heading
+## A second-level heading
+### A third-level heading
+
 /* The first line of code connects us to the international_debt database where 
 the table international_debt is residing.
 
