@@ -3,7 +3,8 @@
 ## A second-level heading
 ### A third-level heading
 
-'Nishi Gandhi'
+
+**Nishi Gandhi **
 
 /* The first line of code connects us to the international_debt database where 
 the table international_debt is residing.
