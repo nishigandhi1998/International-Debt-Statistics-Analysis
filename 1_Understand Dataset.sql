@@ -1,9 +1,4 @@
 
-```
-function test() {
-  console.log("notice the blank line before this function?");
-}
-```
 
 
 /* The first line of code connects us to the international_debt database where 
