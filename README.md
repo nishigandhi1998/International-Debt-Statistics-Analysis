@@ -14,6 +14,6 @@ We are going to find the answers to questions like:
 
 etc...
 
-I got the project idea from the below link, If you want to explore more about SQL Project ideas in 2023: 
+I got the project idea from the below link, If you want to explore more about SQL Project: 
 https://www.projectpro.io/article/sql-database-projects-for-data-analysis-to-practice/565
 
