@@ -1,4 +1,4 @@
-# 8_The highest amount of principal repayments
+#  8_The highest amount of principal repayments
 
 /*
 We can see that the indicator DT.AMT.DLXF.CD tops the chart of average debt. 
