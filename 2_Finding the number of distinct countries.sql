@@ -1,4 +1,4 @@
-# Finding the number of distinct countries
+#  Finding the number of distinct countries
 
 /*  From the first ten rows, we can see the amount of debt owed by Afghanistan in the different debt indicators.
 But we do not know the number of different countries we have on the table.There are repetitions in the country names
