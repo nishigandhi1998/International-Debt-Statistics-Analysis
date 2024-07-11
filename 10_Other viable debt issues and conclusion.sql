@@ -1,4 +1,4 @@
-# 10_Other viable debt issues and conclusion
+#  10_Other viable debt issues and conclusion
 
 /* 
 There are a total of six debt indicators in which all the (124)countries listed in our dataset have taken debt. 
