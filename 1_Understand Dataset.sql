@@ -1,7 +1,4 @@
-
-
-
-/* The first line of code connects us to the international_debt database where 
+/*  The first line of code connects us to the international_debt database where 
 the table international_debt is residing.
 
 Let's first SELECT all of the columns 
