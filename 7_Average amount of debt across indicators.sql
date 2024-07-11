@@ -1,4 +1,4 @@
-# 7_Average amount of debt across indicators
+#  7_Average amount of debt across indicators
 
 /*
 So, it was China , Brazil,South Asia,Least developed countries: UN classification , Russian Federation are the 
