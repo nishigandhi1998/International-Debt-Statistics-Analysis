@@ -1,4 +1,4 @@
-#6_top 5_Country with the highest debt
+# 6_top 5_Country with the highest debt
 
 /* 
 That is more than 3 million million USD, an amount which is really hard for us to fathom.
