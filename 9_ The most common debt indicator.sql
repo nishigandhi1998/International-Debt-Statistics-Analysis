@@ -1,4 +1,4 @@
-# 9_ The most common debt indicator
+#  9_ The most common debt indicator
 
 /*
 China has the highest amount of debt in the long-term debt (DT.AMT.DLXF.CD) category. 
