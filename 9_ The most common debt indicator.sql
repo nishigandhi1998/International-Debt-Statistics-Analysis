@@ -16,4 +16,4 @@ indicator_name,
 count(indicator_code) as indicator_count
 	from international_debt
 	group by indicator_code , indicator_name
-	order by indicator_count DESC;
+	order by indicator_count ASC; --HERE THERE IS DESC I HAVE DOEN CHANGES TO DESC TO ASC
